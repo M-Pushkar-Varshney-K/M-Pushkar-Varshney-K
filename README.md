@@ -22,6 +22,6 @@ Educational Info:<br>1). I am Diploma Student in 2020-23(alumni of Aligarh Musli
 ![](https://github-contributor-stats.vercel.app/api?username=M-Pushkar-Varshney-K&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=M-Pushkar-Varshney-K&icon=0&color=13)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mpvk2787&label=Profile%20Views&color=6&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
