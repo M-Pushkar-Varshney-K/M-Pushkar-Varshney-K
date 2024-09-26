@@ -4,11 +4,11 @@ Hey there! 👋 I’m Pushkar Varshney
 
 🌱 Current Focus:
 
-Pursuing B.Tech at Lovely Professional University
-Alumnus of Aligarh Muslim University (Diploma, 2020-23)
-Building Health Guider, a personal project focused on healthcare guidance
-Learning Android Development, React, and PHP
-🕸️ I am web and 🍎 android app maker and explore them more....🚀⏩
+Pursuing B.Tech at Lovely Professional University <br>
+Alumnus of Aligarh Muslim University (Diploma, 2020-23) <br>
+Building Health Guider, a personal project focused on healthcare guidance <br>
+Learning Android Development, React, and PHP <br>
+🕸️ I am web and 🍎 android app maker and explore them more....🚀⏩ <br><br>
 
 🚀 What I'm Working On:
 
