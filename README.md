@@ -1,9 +1,29 @@
 # 💫 About Me:
-Educational Info:<br>1). I am Diploma Student in 2020-23(alumni of Aligarh Muslim University)<br>2). Currently persuing Btech from Lovely Professional University.<br><br>I'm currently working on a website (health guider)<br>Now a days, I am learning Android development, react, php. <br>
-<span color🤝>To connect me : pushkar.varshney230.4222@gmail.com</span><br><br>
+Hey there! 👋 I’m Pushkar Varshney
+💻 Tech Enthusiast | 🚀 Android & Web Developer | 🎓 Engineering Student
+
+🌱 Current Focus:
+
+Pursuing B.Tech at Lovely Professional University
+Alumnus of Aligarh Muslim University (Diploma, 2020-23)
+Building Health Guider, a personal project focused on healthcare guidance
+Learning Android Development, React, and PHP
+🕸️ I am web and 🍎 android app maker and explore them more....🚀⏩
+
+🚀 What I'm Working On:
+
+Developing a healthcare-related website: Health Guider
+Expanding my skills in Android Development (Java/Kotlin)
+Exploring modern web development with React and backend integration using PHP
+
+🤝 Let's Connect:
+
+Email: pushkar.varshney230.4222@gmail.com
+Always open for collaborations and learning opportunities!
+Looking forward to contributing to exciting projects and connecting with like-minded tech enthusiasts! 😊
 
 
-## 🌐 Socials:
+## 🌐 Socials Accounts:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/HdJJG3AA) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m.pushkar.varshney.k) 
 
 # 💻 Tech Stack:
